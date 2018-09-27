@@ -1,0 +1,34 @@
+[
+    {
+        "id": "31",
+        "title": "高档防水围裙_铜扣新款三...",
+        "pirce": "￥24.00",
+        "img": "images/thrseries1.jpg",
+        "middle_img":["images/thrseries1_middle1.jpg","images/thrseries1_middle2.jpg","images/thrseries1_middle3.jpg"],
+        "small_img":["images/thrseries1_small1.jpg","images/thrseries1_small2.jpg","images/thrseries1_small3.jpg"]
+    },
+    {
+        "id": "32",
+        "title": "新款速干透气网帽_户外遮...",
+        "pirce": "￥32.00",
+        "img": "images/thrseries2.jpg",
+        "middle_img":["images/thrseries2_middle1.jpg"],
+        "small_img":["images/thrseries2_small1.jpg"]
+    },
+    {
+        "id": "33",
+        "title": "全棉高尔夫球帽_长檐_Y...",
+        "pirce": "￥34.00",
+        "img": "images/thrseries3.jpg",
+        "middle_img":["images/thrseries3_middle1.jpg"],
+        "small_img":["images/thrseries3_small1.jpg"]
+    },
+    {
+        "id": "34",
+        "title": "三明治网顶帽_网眼帽_网...",
+        "pirce": "￥12.00",
+        "img": "images/thrseries4.jpg",
+        "middle_img":["images/thrseries4_small1.jpg","images/thrseries4_small2.jpg","images/thrseries4_small3.jpg"],
+        "small_img":["images/thrseries4_small1.jpg","images/thrseries4_small2.jpg","images/thrseries4_small3.jpg"]
+    }
+]

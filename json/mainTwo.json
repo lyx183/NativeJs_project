@@ -1,0 +1,34 @@
+[
+    {
+        "id": "21",
+        "title": "衬衣领巴宝莉格子短袖PO...",
+        "pirce": "￥75.00",
+        "img": "images/twoseries1.jpg",
+        "middle_img":["images/twoseries1_middle1.jpg","images/twoseries1_small2.jpg"],
+        "small_img":["images/twoseries1_small1.jpg","images/twoseries1_small2.jpg"]
+    },
+    {
+        "id": "22",
+        "title": "衬衣领间色罗纹领袖pol...",
+        "pirce": "￥45.00",
+        "img": "images/twoseries2.jpg",
+        "middle_img":["images/twoseries2_middle1.jpg","images/twoseries2_middle2.jpg","images/twoseries2_middle3.jpg","images/twoseries2_middle4.jpg","images/twoseries2_middle5.jpg"],
+        "small_img":["images/twoseries2_small1.jpg","images/twoseries2_small2.jpg","images/twoseries2_small3.jpg","images/twoseries2_small4.jpg","images/twoseries2_small5.jpg"]
+    },
+    {
+        "id": "23",
+        "title": "撞色双袖口双摆Polo衫",
+        "pirce": "￥28.00",
+        "img": "images/twoseries3.jpg",
+        "middle_img":["images/twoseries3_middle1.jpg","images/twoseries3_middle2.jpg","images/twoseries3_middle3.jpg"],
+        "small_img":["images/twoseries3_small1.jpg","images/twoseries3_small2.jpg","images/twoseries3_small3.jpg"]
+    },
+    {
+        "id": "24",
+        "title": "40支纱CVC棉混纺po...",
+        "pirce": "￥26.00",
+        "img": "images/twoseries4.jpg",
+        "middle_img":["images/twoseries4_middle1.jpg","images/twoseries4_middle2.jpg","images/twoseries4_middle3.jpg"],
+        "small_img":["images/twoseries4_small1.jpg","images/twoseries4_small2.jpg","images/twoseries4_small3.jpg"]
+    }
+]

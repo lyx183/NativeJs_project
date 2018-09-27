@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "title": "精梳紧密纺长绒纯棉T恤_1828邮",
+        "pirce": "￥32.00",
+        "img": "images/mian1.jpg",
+        "middle_img":["images/main1_middle1.jpg","images/main1_middle2.jpg","images/main1_middle3.jpg"],
+        "small_img":["images/main1_small1.jpg","images/main1_small2.jpg","images/main1_small3.jpg"]
+    },
+    {
+        "id": "02",
+        "title": "精梳70棉加厚polo衫_1818",
+        "pirce": "￥52.00",
+        "img": "images/mian2.jpg",
+        "middle_img":["images/main2_middle1.jpg","images/main2_middle2.jpg","images/main2_middle3.jpg"],
+        "small_img":["images/main2_small1.jpg","images/main2_small2.jpg","images/main2_small3.jpg"]
+    },
+    {
+        "id": "03",
+        "title": "亲肤棉珠地网眼polo衫_1858",
+        "pirce": "￥48.00",
+        "img": "images/mian3.jpg",
+        "middle_img":["images/main3_middle1.jpg","images/main3_middle2.jpg"],
+        "small_img":["images/main3_small1.jpg","images/main3_small2.jpg"]
+    },
+    {
+        "id": "04",
+        "title": "40支纱CVC棉混纺polo衫_7009",
+        "pirce": "￥26.00",
+        "img": "images/mian4.jpg",
+        "middle_img":["images/main4_middle1.jpg","images/main4_middle2.jpg","images/main4_middle3.jpg"],
+        "small_img":["images/main4_small1.jpg","images/main4_small2.jpg","images/main4_small3.jpg"]
+    }
+] 

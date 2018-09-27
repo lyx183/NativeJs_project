@@ -1,0 +1,66 @@
+[
+    {
+        "id": "11",
+        "title": "进口精梳全棉T恤_儿童款...",
+        "pirce": "￥18.00",
+        "img": "images/oneseries1.jpg",
+        "middle_img":["images/oneseries1_middle1.jpg","images/oneseries1_middle2.jpg","images/oneseries1_middle3.jpg","images/oneseries1_middle4.jpg","images/oneseries1_middle5.jpg"],
+        "small_img":["images/oneseries1_small1.jpg","images/oneseries1_small2.jpg","images/oneseries1_small3.jpg","images/oneseries1_small4.jpg","images/oneseries1_small5.jpg"]
+    },
+    {
+        "id": "12",
+        "title": "精仿莫代尔T恤衫_男、女...",
+        "pirce": "￥16.00",
+        "img": "images/oneseries2.jpg",
+        "middle_img":["images/oneseries2_middle1.jpg","images/oneseries2_middle2.jpg","images/oneseries2_middle3.jpg","images/oneseries2_middle4.jpg"],
+        "small_img":["images/oneseries2_small1.jpg","images/oneseries2_small2.jpg","images/oneseries2_small3.jpg","images/oneseries2_small4.jpg"]
+    },
+    {
+        "id": "13",
+        "title": "赛罗纺圆领衫_拉架平纹_...",
+        "pirce": "￥32.00",
+        "img": "images/oneseries3.jpg",
+        "middle_img":["images/oneseries3_middle1.jpg","images/oneseries3_middle2.jpg"],
+        "small_img":["images/oneseries3_small1.jpg","images/oneseries3_small2.jpg"]
+    },
+    {
+        "id": "14",
+        "title": "精梳紧密纺长绒纯棉T恤_...",
+        "pirce": "￥32.00",
+        "img": "images/oneseries4.jpg",
+        "middle_img":["images/main1_middle1.jpg","images/main1_middle2.jpg","images/main1_middle3.jpg"],
+        "small_img":["images/main1_small1.jpg","images/main1_small2.jpg","images/main1_small3.jpg"]
+    },
+    {
+        "id": "15",
+        "title": "进口精梳全棉150G_6...",
+        "pirce": "￥14.00",
+        "img": "images/oneseries5.jpg",
+        "middle_img":["images/oneseries4_middle1.jpg","images/oneseries4_middle2.jpg","images/oneseries4_middle3.jpg","images/oneseries4_middle4.jpg"],
+        "small_img":["images/oneseries4_small1.jpg","images/oneseries4_small2.jpg","images/oneseries4_small3.jpg","images/oneseries4_small4.jpg"]
+    },
+    {
+        "id": "16",
+        "title": "精梳全棉T恤_男、女、童...",
+        "pirce": "￥15.00",
+        "img": "images/oneseries6.jpg",
+        "middle_img":["images/oneseries6_middle1.jpg","images/oneseries6_middle2.jpg","images/oneseries6_middle3.jpg"],
+        "small_img":["images/oneseries6_small1.jpg","images/oneseries6_small2.jpg","images/oneseries6_small3.jpg"]
+    },
+    {
+        "id": "17",
+        "title": "亲肤纺网眼亲子V领衫",
+        "pirce": "￥39.00",
+        "img": "images/oneseries7.jpg",
+        "middle_img":["images/oneseries7_middle1.jpg","images/oneseries7_middle2.jpg","images/oneseries7_middle3.jpg"],
+        "small_img":["images/oneseries7_small1.jpg","images/oneseries7_small2.jpg","images/oneseries7_small3.jpg"]
+    },
+    {
+        "id": "18",
+        "title": "进口精梳全棉T恤",
+        "pirce": "￥20.00",
+        "img": "images/oneseries8.jpg",
+        "middle_img":["images/oneseries8_middle1.jpg","images/oneseries8_middle2.jpg"],
+        "small_img":["images/oneseries8_small1.jpg","images/oneseries8_small2.jpg"]
+    }
+]
